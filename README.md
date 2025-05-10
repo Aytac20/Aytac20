@@ -1,6 +1,7 @@
 ## Hi, I'm Aytac 👋
-
-https://i.pinimg.com/736x/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.jpg
+<p align="center">
+  <img src="https://i.pinimg.com/736x/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.jpg" alt="ChillFix UI" width="600"/>
+</p>
 - 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me: [abalayeva12@gmail.com](mailto:abalayeva12@gmail.com)
 - ⚡ Fun fact: I love turning coffee into code! 
