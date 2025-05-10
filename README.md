@@ -1,4 +1,4 @@
-console.log('\x1b[32m%s\x1b[0m', 'Hello World');
+
 ## Hi, I'm Aytac 👋
 
 - 🌱 I’m currently learning **Next.js**
