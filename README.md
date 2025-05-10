@@ -1,4 +1,4 @@
-# <p style="color: green;">Hello World</p>
+<p style="color: green;">Hello World</p>
 ## Hi, I'm Aytac 👋
 
 - 🌱 I’m currently learning **Next.js**
