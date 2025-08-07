@@ -1,11 +1,13 @@
 
-## 👋 Hi, I'm Aytac
+## 
+<p align="center">👋 Hi, I'm Aytac
+</p>
 
 🎓 I'm a Mathematics & Computer Science Education graduate and soon-to-be Master's student in Management Information Systems.  
 💻 Passionate about full-stack web development, especially React & Next.js.  
 🚀 Currently working on personal projects and always open to collaboration!
 
-- 🌱 Currently learning: **Next.js**, **Node.js**, and **MongoDB**
+- 🌱 Currently learning: **Next.js**, **TypeScript**
 - 📫 Reach me at: [abalayeva12@gmail.com](mailto:abalayeva12@gmail.com)
 - ⚡ Fun fact: I love turning ☕ into code!
 
@@ -29,9 +31,4 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="left">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=aytacbalayeva&show_icons=true&theme=radical" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aytacbalayeva&layout=compact&theme=radical"/>
-</p>
