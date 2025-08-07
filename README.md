@@ -4,7 +4,7 @@
 </h1>
 
 🎓 I'm a Mathematics & Computer Science Education graduate and soon-to-be Master's student in Management Information Systems.  
-💻 Passionate about full-stack web development, especially React & Next.js.  
+
 🚀 Currently working on personal projects and always open to collaboration!
 
 - 🌱 Currently learning: **Next.js**, **TypeScript**
