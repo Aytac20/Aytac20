@@ -1,10 +1,15 @@
 
-## Hi, I'm Aytac 👋
+## 👋 Hi, I'm Aytac
 
-- 🌱 I’m currently learning **Next.js**
-- 📫 How to reach me: [abalayeva12@gmail.com](mailto:abalayeva12@gmail.com)
-- ⚡ Fun fact: I love turning coffee into code! 
+🎓 I'm a Mathematics & Computer Science Education graduate and soon-to-be Master's student in Management Information Systems.  
+💻 Passionate about full-stack web development, especially React & Next.js.  
+🚀 Currently working on personal projects and always open to collaboration!
 
+- 🌱 Currently learning: **Next.js**, **Node.js**, and **MongoDB**
+- 📫 Reach me at: [abalayeva12@gmail.com](mailto:abalayeva12@gmail.com)
+- ⚡ Fun fact: I love turning ☕ into code!
+
+---
 
 ## 🛠️ Languages and Tools:
 
@@ -16,7 +21,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=aytacbalayeva&show_icons=true&theme=radical" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aytacbalayeva&layout=compact&theme=radical"/>
 </p>
