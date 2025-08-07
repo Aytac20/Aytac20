@@ -1,7 +1,7 @@
 
 ## 
-<p align="center">👋 Hi, I'm Aytac
-</p>
+<h1 align="center" >👋 Hi, I'm Aytac
+</h1>
 
 🎓 I'm a Mathematics & Computer Science Education graduate and soon-to-be Master's student in Management Information Systems.  
 💻 Passionate about full-stack web development, especially React & Next.js.  
